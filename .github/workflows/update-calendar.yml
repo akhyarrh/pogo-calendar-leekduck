@@ -2,8 +2,8 @@ name: Update LeekDuck Calendar
 
 on:
   schedule:
-    # Run daily at 6:00 AM UTC (8:00 AM Brussels time in winter, 7:00 AM in summer)
-    - cron: '0 6 * * *'
+    # Run daily at 21:00 PM UTC (5:00 AM Singapore time in the next day)
+    - cron: '0 21 * * *'
   workflow_dispatch:  # Allow manual triggers
   push:
     branches:
