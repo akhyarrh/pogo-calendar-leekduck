@@ -5,87 +5,11 @@ X-WR-CALDESC:Pokemon GO events from LeekDuck.com
 X-WR-CALNAME:LeekDuck Pokemon GO Events
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:⭐ Dynamax Ralts during Max Monday
-DTSTART;TZID=Asia/Singapore:20260907T060000
-DTEND;TZID=Asia/Singapore:20260907T210000
-DTSTAMP:20260907T231126Z
-UID:2026-09-07T06:00:00+08:00-5950223663264355049@leekduck-calendar
-DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout th
- is season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local
-  time on Mondays.\n\nOnSeptember 7\, 2026\, the featured Dynamax Pokémon 
- isRalts.\n\nMore info: https://leekduck.com/events/max-mondays-2026-09-07/
- \n\nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/max-mondays-2026-09-07/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ⭐ Dynamax Ralts during Max Monday starts in 2 hou
- rs
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ⭐ Dynamax Ralts during Max Monday ends today
-TRIGGER:PT3H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📅 Forever Forward
-DTSTART;TZID=Asia/Singapore:20260602T100000
-DTEND;TZID=Asia/Singapore:20260908T100000
-DTSTAMP:20260907T231126Z
-UID:2026-06-02T10:00:00+08:00--8456764381734591776@leekduck-calendar
-DESCRIPTION:Welcome to Pokémon GO: Forever Forward!\n\nIn Pokémon GO\, S
- easons are periods of time that feature new events\, Pokémon debuts\, and
-  surprises that all follow a certain theme. As the Seasons change\, you ma
- y find different Pokémon appearing in your area and hatching from Eggs. M
- ake sure to explore during each in-game Season to collect and train as man
- y different Pokémon as you can! You’ll also enjoy special bonuses as yo
- u do.\n\nMore info: https://leekduck.com/events/season-23-forever-forward/
- \n\nData from LeekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/season-23-forever-forward/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Forever Forward starts in 2 hours
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 📅 Forever Forward ends today
-TRIGGER:P97DT23H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎫 GO Pass: August
-DTSTART;TZID=Asia/Singapore:20260804T100000
-DTEND;TZID=Asia/Singapore:20260908T100000
-DTSTAMP:20260907T231126Z
-UID:2026-08-04T10:00:00+08:00-1333387420643755721@leekduck-calendar
-DESCRIPTION:The Lucky Trinket returns and Latias soars into GO Pass: Augus
- t!\n\nThe GO Pass and GO Pass Deluxe for August will be available from Aug
- ust 4\, 2026 at 10:00 am to September 8\, 2026 at 10:00 am local time.\n\n
- More info: https://leekduck.com/events/go-pass-august-2026/\n\nData from L
- eekDuck.com
-LOCATION:Pokemon GO
-URL:https://leekduck.com/events/go-pass-august-2026/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 🎫 GO Pass: August starts in 2 hours
-TRIGGER:-PT2H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 🎫 GO Pass: August ends today
-TRIGGER:P34DT23H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📅 Shadow Giratina (Altered Forme) in Shadow Raids
 DTSTART;TZID=Asia/Singapore:20260805T060000
 DTEND;TZID=Asia/Singapore:20260908T220000
-DTSTAMP:20260907T231126Z
-UID:2026-08-05T06:00:00+08:00--2983726814184679085@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-08-05T06:00:00+08:00-2614520219300491934@leekduck-calendar
 DESCRIPTION:Shadow Giratina (Altered Forme) will make its Shadow Raid debu
  t in Pokémon GO! If you’re lucky you’ll be able to encounter Shiny Sh
  adow Giratina (Altered Forme)!\n\nShadow Giratina (Altered Forme) will app
@@ -112,8 +36,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Gyarados in Mega Raids
 DTSTART;TZID=Asia/Singapore:20260826T060000
 DTEND;TZID=Asia/Singapore:20260908T220000
-DTSTAMP:20260907T231126Z
-UID:2026-08-26T06:00:00+08:00-6064314883170879873@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-08-26T06:00:00+08:00-5682821025103153190@leekduck-calendar
 DESCRIPTION:Mega Gyarados will be in Mega Raids from August 26\, 2026 at 6
   am to September 8\, 2026 at 10 pm local time.\n\nMega Gyarados will not b
  e available from August 31 to September 4 during Mega Ascension\, but it w
@@ -137,8 +61,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Regirock\, Regice\, and Registeel in 5-star Raid Battles
 DTSTART;TZID=Asia/Singapore:20260826T060000
 DTEND;TZID=Asia/Singapore:20260908T060000
-DTSTAMP:20260907T231126Z
-UID:2026-08-26T06:00:00+08:00-5354877138069051499@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-08-26T06:00:00+08:00-8976349467880890503@leekduck-calendar
 DESCRIPTION:Regirock\, Regice\, and Registeel will be in five-star raid ba
  ttles from August 26\, 2026 to September 8\, 2026.\n\nThere will also be a
   Raid Hour featuring Regirock\, Regice\, and Registeel from 6:00 pm to 7:0
@@ -165,8 +89,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Zacian (Hero of Many Battles) Raid Hour
 DTSTART;TZID=Asia/Singapore:20260909T180000
 DTEND;TZID=Asia/Singapore:20260909T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-09T18:00:00+08:00-2557970451242925870@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-09T18:00:00+08:00--2668999613027167807@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Zacian (Hero of Many Battles) is schedul
  ed from 6:00 p.m. to 7:00 p.m. local time. During this hour there will be 
  an increased number of five-star raids.\n\nMore info: https://leekduck.com
@@ -184,8 +108,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Weedle\, Kakuna\, and Beedrill Spotlight Hour
 DTSTART;TZID=Asia/Singapore:20260910T180000
 DTEND;TZID=Asia/Singapore:20260910T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-10T18:00:00+08:00-1372987018797422950@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-10T18:00:00+08:00--2555804996676602964@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time.\n\nSeptember 10: The f
  eatured Pokémon areWeedle\, Kakuna\, and Beedrilland the special bonus is
@@ -204,8 +128,8 @@ BEGIN:VEVENT
 SUMMARY:👥 Gible Community Day Classic
 DTSTART;TZID=Asia/Singapore:20260912T140000
 DTEND;TZID=Asia/Singapore:20260912T170000
-DTSTAMP:20260907T231126Z
-UID:2026-09-12T14:00:00+08:00--5961230036832111140@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-12T14:00:00+08:00-7459961535597267097@leekduck-calendar
 DESCRIPTION:Gible\, the Land Shark Pokémon\, will be featured during Sept
  ember Community Day Classic!\n\nMore info: https://leekduck.com/events/sep
  tember-communitydayclassic2026/\n\nData from LeekDuck.com
@@ -221,8 +145,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Houndour and Houndoom Spotlight Hour
 DTSTART;TZID=Asia/Singapore:20260913T180000
 DTEND;TZID=Asia/Singapore:20260913T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-13T18:00:00+08:00-6646508220924038921@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-13T18:00:00+08:00--1337681909419142314@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time.\n\nSeptember 13: The f
  eatured Pokémon areHoundour and Houndoomand the special bonus is2× Trans
@@ -241,8 +165,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Squads
 DTSTART;TZID=Asia/Singapore:20260908T100000
 DTEND;TZID=Asia/Singapore:20260914T200000
-DTSTAMP:20260907T231126Z
-UID:2026-09-08T10:00:00+08:00--8134985357713916689@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-08T10:00:00+08:00--4997448229080006695@leekduck-calendar
 DESCRIPTION:Pick up where Mega Finale leaves off\, and get energized for t
  he Mega Squads event!\n\nThe Mega Squads event will take place from Septem
  ber 8\, 2026 at 10 am to September 14\, 2026 at 8 pm local time.\n\nMore i
@@ -264,8 +188,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Rhyhorn during Max Monday
 DTSTART;TZID=Asia/Singapore:20260914T060000
 DTEND;TZID=Asia/Singapore:20260914T210000
-DTSTAMP:20260907T231126Z
-UID:2026-09-14T06:00:00+08:00-113967431991934425@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-14T06:00:00+08:00--1608367179046691503@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout th
  is season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local
   time on Mondays.\n\nOnSeptember 14\, 2026\, the featured Dynamax Pokémon
@@ -289,8 +213,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Beedrill in Mega Raids
 DTSTART;TZID=Asia/Singapore:20260908T060000
 DTEND;TZID=Asia/Singapore:20260915T220000
-DTSTAMP:20260907T231126Z
-UID:2026-09-08T06:00:00+08:00--410805083169545347@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-08T06:00:00+08:00-6964343393588227726@leekduck-calendar
 DESCRIPTION:Mega Beedrill will be in Mega Raids from September 8\, 2026 at
   6 am to September 15\, 2026 at 10 pm local time.\n\nMore info: https://le
  ekduck.com/events/mega-beedrill-in-mega-raids-september-2026/\n\nData from
@@ -313,8 +237,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Zacian (Hero of Many Battles) in 5-star Raid Battles
 DTSTART;TZID=Asia/Singapore:20260909T060000
 DTEND;TZID=Asia/Singapore:20260915T060000
-DTSTAMP:20260907T231126Z
-UID:2026-09-09T06:00:00+08:00--7967697724697128038@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-09T06:00:00+08:00--8916552118978082912@leekduck-calendar
 DESCRIPTION:Zacian (Hero of Many Battles) will be in five-star raid battle
  s from September 9\, 2026 to September 15\, 2026.\n\nThere will also be a 
  Raid Hour featuring Zacian (Hero of Many Battles) from 6:00 p.m. to 7:00 p
@@ -341,8 +265,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Houndoom in Mega Raids
 DTSTART;TZID=Asia/Singapore:20260911T060000
 DTEND;TZID=Asia/Singapore:20260915T220000
-DTSTAMP:20260907T231126Z
-UID:2026-09-11T06:00:00+08:00--4688409813590720271@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-11T06:00:00+08:00-8126418638054225992@leekduck-calendar
 DESCRIPTION:Mega Houndoom will be in Mega Raids from September 11\, 2026 a
  t 6 am to September 15\, 2026 at 10 pm local time.\n\nMore info: https://l
  eekduck.com/events/mega-houndoom-in-mega-raids-september-2026/\n\nData fro
@@ -365,8 +289,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Zamazenta (Hero of Many Battles) Raid Hour
 DTSTART;TZID=Asia/Singapore:20260916T180000
 DTEND;TZID=Asia/Singapore:20260916T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-16T18:00:00+08:00-1851245550460841852@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-16T18:00:00+08:00-7814517684127722784@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Zamazenta (Hero of Many Battles) is sche
  duled from 6:00 p.m. to 7:00 p.m. local time. During this hour there will 
  be an increased number of five-star raids.\n\nMore info: https://leekduck.
@@ -384,8 +308,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mystery Pokémon Spotlight Hour
 DTSTART;TZID=Asia/Singapore:20260917T180000
 DTEND;TZID=Asia/Singapore:20260917T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-17T18:00:00+08:00--5630595039405159620@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-17T18:00:00+08:00--7877179107836370215@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature an unannounced Pokémon a
  nd a special bonus for one hour at 6:00 p.m. local time.\n\nSeptember 17: 
  The featured Pokémon has not yet been announced\, and the special bonus i
@@ -404,8 +328,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Staraptor Super Mega Raid Day
 DTSTART;TZID=Asia/Singapore:20260919T140000
 DTEND;TZID=Asia/Singapore:20260919T170000
-DTSTAMP:20260907T231126Z
-UID:2026-09-19T14:00:00+08:00-5578385240134483669@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-19T14:00:00+08:00-2263313998350534706@leekduck-calendar
 DESCRIPTION:Ready yourself to courageously challenge Staraptor Super Mega 
  Raid Day!\n\nMore info: https://leekduck.com/events/staraptor-super-mega-r
  aid-day-2026/\n\nData from LeekDuck.com
@@ -422,8 +346,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
 DTSTART;TZID=Asia/Singapore:20260921T060000
 DTEND;TZID=Asia/Singapore:20260921T210000
-DTSTAMP:20260907T231126Z
-UID:2026-09-21T06:00:00+08:00-5727481053723144710@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-21T06:00:00+08:00--3076171856273756586@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout th
  is season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local
   time on Mondays.\n\nOnSeptember 21\, 2026\, the featured Dynamax Pokémon
@@ -448,8 +372,8 @@ BEGIN:VEVENT
 SUMMARY:🎉 Pokémon Horizons: The Series Celebration Event
 DTSTART;TZID=Asia/Singapore:20260916T100000
 DTEND;TZID=Asia/Singapore:20260922T200000
-DTSTAMP:20260907T231126Z
-UID:2026-09-16T10:00:00+08:00-72061690472332695@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-16T10:00:00+08:00--1683578271890924873@leekduck-calendar
 DESCRIPTION:The Pokémon Horizons: The Series Celebration Event returns to
   Pokémon GO with the debut of Charmander wearing Friede’s goggles and i
  ts Evolutions!\n\nUS fans can watchPokémon Horizons: Season 3—Rising Ho
@@ -479,8 +403,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Venusaur in Mega Raids
 DTSTART;TZID=Asia/Singapore:20260916T060000
 DTEND;TZID=Asia/Singapore:20260922T220000
-DTSTAMP:20260907T231126Z
-UID:2026-09-16T06:00:00+08:00--2517152293237481982@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-16T06:00:00+08:00--2552882077367773966@leekduck-calendar
 DESCRIPTION:Mega Venusaur will be in Mega Raids from September 16\, 2026 a
  t 6 am to September 22\, 2026 at 10 pm local time.\n\nMore info: https://l
  eekduck.com/events/mega-venusaur-in-mega-raids-september-2026/\n\nData fro
@@ -503,8 +427,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Zamazenta (Hero of Many Battles) in 5-star Raid Battles
 DTSTART;TZID=Asia/Singapore:20260916T060000
 DTEND;TZID=Asia/Singapore:20260922T060000
-DTSTAMP:20260907T231126Z
-UID:2026-09-16T06:00:00+08:00--1761270529243794285@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-16T06:00:00+08:00-3444849800045408759@leekduck-calendar
 DESCRIPTION:Zamazenta (Hero of Many Battles) will be in five-star raid bat
  tles from September 16\, 2026 to September 22\, 2026.\n\nThere will also b
  e a Raid Hour featuring Zamazenta (Hero of Many Battles) from 6:00 p.m. to
@@ -531,8 +455,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
 DTSTART;TZID=Asia/Singapore:20260923T180000
 DTEND;TZID=Asia/Singapore:20260923T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-23T18:00:00+08:00--149883934004662091@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-23T18:00:00+08:00--2390921212221240438@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Xurkitree (Asia-Pacific)\, Pheromosa (Eu
  rope\, the Middle East\, Africa\, and India)\, and Buzzwole (the Americas 
  and Greenland) is scheduled from 6:00 p.m. to 7:00 p.m. local time. During
@@ -552,8 +476,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Rattata Spotlight Hour
 DTSTART;TZID=Asia/Singapore:20260924T180000
 DTEND;TZID=Asia/Singapore:20260924T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-24T18:00:00+08:00-4604069351647418454@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-24T18:00:00+08:00--6875267828969589261@leekduck-calendar
 DESCRIPTION:Pokémon Spotlight Hour will feature a different Pokémon and 
  special bonus for one hour at 6:00 p.m. local time.\n\nThere will be an in
  creased chance to encounter XXS Rattata.\n\nSeptember 24: The featured Pok
@@ -572,8 +496,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Phantump Catch Mastery
 DTSTART;TZID=Asia/Singapore:20260926T100000
 DTEND;TZID=Asia/Singapore:20260926T200000
-DTSTAMP:20260907T231126Z
-UID:2026-09-26T10:00:00+08:00-5415399147908187672@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-26T10:00:00+08:00--7932486034308134756@leekduck-calendar
 DESCRIPTION:Get ready for a Catch Mastery event featuring Phantump\, the S
  tump Pokémon!\n\nMore info: https://leekduck.com/events/catch-mastery-pha
  ntump-2026/\n\nData from LeekDuck.com
@@ -589,8 +513,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dynamax Sobble during Max Monday
 DTSTART;TZID=Asia/Singapore:20260928T060000
 DTEND;TZID=Asia/Singapore:20260928T210000
-DTSTAMP:20260907T231126Z
-UID:2026-09-28T06:00:00+08:00-8490077997614961179@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-28T06:00:00+08:00--6919961257078184969@leekduck-calendar
 DESCRIPTION:These Dynamax Pokémon may appear in Max Battles throughout th
  is season. Max Battles will be available from 6:00 a.m. to 9:00 p.m. local
   time on Mondays.\n\nOnSeptember 28\, 2026\, the featured Dynamax Pokémon
@@ -614,8 +538,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Malamar in Mega Raids
 DTSTART;TZID=Asia/Singapore:20260923T060000
 DTEND;TZID=Asia/Singapore:20260929T220000
-DTSTAMP:20260907T231126Z
-UID:2026-09-23T06:00:00+08:00-8158473453560598639@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-23T06:00:00+08:00-5348020962046445588@leekduck-calendar
 DESCRIPTION:Mega Malamar will be in Mega Raids from September 23\, 2026 at
   6 am to September 29\, 2026 at 10 pm local time.\n\nMore info: https://le
  ekduck.com/events/mega-malamar-in-mega-raids-september-2026/\n\nData from 
@@ -638,8 +562,8 @@ SUMMARY:⚔️ Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battle
  s
 DTSTART;TZID=Asia/Singapore:20260923T060000
 DTEND;TZID=Asia/Singapore:20260929T060000
-DTSTAMP:20260907T231126Z
-UID:2026-09-23T06:00:00+08:00--1791048218068210630@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-23T06:00:00+08:00-6989984044033243819@leekduck-calendar
 DESCRIPTION:Xurkitree\, Pheromosa\, and Buzzwole will be in five-star raid
   battles from September 23\, 2026 to September 29\, 2026.\n\nXurkitree wil
  l appear in the Asia-Pacific region\, Pheromosa will appear in Europe\, th
@@ -668,8 +592,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Xerneas Raid Hour
 DTSTART;TZID=Asia/Singapore:20260930T180000
 DTEND;TZID=Asia/Singapore:20260930T190000
-DTSTAMP:20260907T231126Z
-UID:2026-09-30T18:00:00+08:00-986297388846369266@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-30T18:00:00+08:00-2315188507658722457@leekduck-calendar
 DESCRIPTION:A Raid Hour featuring Xerneas is scheduled from 6:00 p.m. to 7
  :00 p.m. local time. During this hour there will be an increased number of
   five-star raids.\n\nMore info: https://leekduck.com/events/raidhour202609
@@ -686,8 +610,8 @@ BEGIN:VEVENT
 SUMMARY:📅 LEGO Stores and Pokémon GO
 DTSTART;TZID=Asia/Singapore:20260803T100000
 DTEND;TZID=Asia/Singapore:20260930T235900
-DTSTAMP:20260907T231126Z
-UID:2026-08-03T10:00:00+08:00--6441437080642976870@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-08-03T10:00:00+08:00--7886458070850677840@leekduck-calendar
 DESCRIPTION:The Pokémon GO and LEGO Group partnership continues for Train
  ers in the US\, UK\, Poland\, France\, Germany\, and Australia! Visit part
  icipating LEGO Store locations for raids\, a LEGO-themed stamp rally\, eve
@@ -712,8 +636,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Asia/Singapore:20261003T140000
 DTEND;TZID=Asia/Singapore:20261003T170000
-DTSTAMP:20260907T231126Z
-UID:2026-10-03T14:00:00+08:00-3804958410861411437@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-10-03T14:00:00+08:00--4420930002609131152@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on October 3\, 2026 f
  rom 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leekd
  uck.com/events/max-battle-day-october-2026/\n\nData from LeekDuck.com
@@ -729,8 +653,8 @@ BEGIN:VEVENT
 SUMMARY:🎉 Harvest Festival 2026: Applin Picking
 DTSTART;TZID=Asia/Singapore:20260929T100000
 DTEND;TZID=Asia/Singapore:20261005T200000
-DTSTAMP:20260907T231126Z
-UID:2026-09-29T10:00:00+08:00--9105663364667078310@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-29T10:00:00+08:00-2708201992914858178@leekduck-calendar
 DESCRIPTION:Harvest Festival returns with the Pokémon GO debut of Shiny A
  pplin! Gather apples\, choose a Timed Research path\, and earn rewards thr
  ough the event GO Pass.\n\nThe Harvest Festival 2026: Applin Picking event
@@ -756,8 +680,8 @@ BEGIN:VEVENT
 SUMMARY:🎉 Harvest Festival: Taken Over
 DTSTART;TZID=Asia/Singapore:20261002T000000
 DTEND;TZID=Asia/Singapore:20261005T200000
-DTSTAMP:20260907T231126Z
-UID:2026-10-02T00:00:00+08:00-201932116374504867@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-10-02T00:00:00+08:00-8018748934310166625@leekduck-calendar
 DESCRIPTION:Rescue Shadow Zekrom as Team GO Rocket takes over the Harvest 
  Festival!\n\nThe Harvest Festival: Taken Over event will take place from O
  ctober 2\, 2026 at 12 am to October 5\, 2026 at 8 pm local time.\n\nMore i
@@ -780,8 +704,8 @@ BEGIN:VEVENT
 SUMMARY:🎫 GO Pass: September
 DTSTART;TZID=Asia/Singapore:20260908T100000
 DTEND;TZID=Asia/Singapore:20261006T100000
-DTSTAMP:20260907T231126Z
-UID:2026-09-08T10:00:00+08:00-5705353730059172365@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-08T10:00:00+08:00--8069502069967019367@leekduck-calendar
 DESCRIPTION:Latios soars in faster than a jet for GO Pass: September!\n\nT
  he GO Pass and GO Pass Deluxe for September will be available from Septemb
  er 8\, 2026 at 10:00 am to October 6\, 2026 at 10:00 am local time.\n\nMor
@@ -804,8 +728,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Shadow Thundurus (Incarnate Forme) in Shadow Raids
 DTSTART;TZID=Asia/Singapore:20260909T060000
 DTEND;TZID=Asia/Singapore:20261006T060000
-DTSTAMP:20260907T231126Z
-UID:2026-09-09T06:00:00+08:00--2545147023737090647@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-09T06:00:00+08:00-1366066021950782371@leekduck-calendar
 DESCRIPTION:Shadow Thundurus (Incarnate Forme) will appear in five-star Sh
  adow Raids every weekend from September 9\, 2026 to October 6\, 2026. If y
  ou’re lucky\, you may encounter Shiny Shadow Thundurus (Incarnate Forme)
@@ -831,8 +755,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Mega Victreebel in Mega Raids
 DTSTART;TZID=Asia/Singapore:20260930T060000
 DTEND;TZID=Asia/Singapore:20261006T220000
-DTSTAMP:20260907T231126Z
-UID:2026-09-30T06:00:00+08:00-4592925982036293481@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-30T06:00:00+08:00--9193484285674866211@leekduck-calendar
 DESCRIPTION:Mega Victreebel will be in Mega Raids from September 30\, 2026
   at 6 am to October 6\, 2026 at 10 pm local time.\n\nMore info: https://le
  ekduck.com/events/mega-victreebel-in-mega-raids-september-2026/\n\nData fr
@@ -856,8 +780,8 @@ BEGIN:VEVENT
 SUMMARY:⚔️ Xerneas in 5-star Raid Battles
 DTSTART;TZID=Asia/Singapore:20260930T060000
 DTEND;TZID=Asia/Singapore:20261006T060000
-DTSTAMP:20260907T231126Z
-UID:2026-09-30T06:00:00+08:00-5489963496754151836@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-30T06:00:00+08:00-7133334448725224372@leekduck-calendar
 DESCRIPTION:Xerneas will be in five-star raid battles from September 30\, 
  2026 to October 6\, 2026.\n\nThere will also be a Raid Hour featuring Xern
  eas from 6:00 p.m. to 7:00 p.m. local time on September 30.\n\nMore info: 
@@ -882,8 +806,8 @@ BEGIN:VEVENT
 SUMMARY:📅 October Community Day
 DTSTART;TZID=Asia/Singapore:20261010T140000
 DTEND;TZID=Asia/Singapore:20261010T170000
-DTSTAMP:20260907T231126Z
-UID:2026-10-10T14:00:00+08:00-4675127741195304980@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-10-10T14:00:00+08:00--8510496617688070504@leekduck-calendar
 DESCRIPTION:The October Community Day event will take place on October 10\
  , 2026 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https
  ://leekduck.com/events/october-communityday2026/\n\nData from LeekDuck.com
@@ -899,8 +823,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Hatch Day
 DTSTART;TZID=Asia/Singapore:20261017T110000
 DTEND;TZID=Asia/Singapore:20261017T170000
-DTSTAMP:20260907T231126Z
-UID:2026-10-17T11:00:00+08:00--5139902194748424590@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-10-17T11:00:00+08:00-8957538969842012030@leekduck-calendar
 DESCRIPTION:The Hatch Day event will take place on October 17\, 2026 from 
  11 am to 5 pm. Stay tuned for more details.\n\nMore info: https://leekduck
  .com/events/hatch-day-october-2026/\n\nData from LeekDuck.com
@@ -916,8 +840,8 @@ BEGIN:VEVENT
 SUMMARY:⭐ Max Battle Day
 DTSTART;TZID=Asia/Singapore:20261024T140000
 DTEND;TZID=Asia/Singapore:20261024T170000
-DTSTAMP:20260907T231126Z
-UID:2026-10-24T14:00:00+08:00-3804958410861411437@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-10-24T14:00:00+08:00--4420930002609131152@leekduck-calendar
 DESCRIPTION:The Max Battle Day event will take place on October 24\, 2026 
  from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https://leek
  duck.com/events/max-battle-day-october-24-2026/\n\nData from LeekDuck.com
@@ -933,8 +857,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Super Mega Raid Day
 DTSTART;TZID=Asia/Singapore:20261031T140000
 DTEND;TZID=Asia/Singapore:20261031T170000
-DTSTAMP:20260907T231126Z
-UID:2026-10-31T14:00:00+08:00-4583012183368624271@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-10-31T14:00:00+08:00--6884524878302026059@leekduck-calendar
 DESCRIPTION:The Super Mega Raid Day event will take place on October 31\, 
  2026 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https:/
  /leekduck.com/events/super-mega-raid-day-october-2026/\n\nData from LeekDu
@@ -951,8 +875,8 @@ BEGIN:VEVENT
 SUMMARY:📅 November Community Day
 DTSTART;TZID=Asia/Singapore:20261121T140000
 DTEND;TZID=Asia/Singapore:20261121T170000
-DTSTAMP:20260907T231126Z
-UID:2026-11-21T14:00:00+08:00--7226836257342986355@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-11-21T14:00:00+08:00-1791384976985939685@leekduck-calendar
 DESCRIPTION:The November Community Day event will take place on November 2
  1\, 2026 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: htt
  ps://leekduck.com/events/november-communityday2026/\n\nData from LeekDuck.
@@ -969,8 +893,8 @@ BEGIN:VEVENT
 SUMMARY:💫 Super Mega Raid Day
 DTSTART;TZID=Asia/Singapore:20261128T140000
 DTEND;TZID=Asia/Singapore:20261128T170000
-DTSTAMP:20260907T231126Z
-UID:2026-11-28T14:00:00+08:00-4583012183368624271@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-11-28T14:00:00+08:00--6884524878302026059@leekduck-calendar
 DESCRIPTION:The Super Mega Raid Day event will take place on November 28\,
   2026 from 2 pm to 5 pm. Stay tuned for more details.\n\nMore info: https:
  //leekduck.com/events/super-mega-raid-day-november-2026/\n\nData from Leek
@@ -987,8 +911,8 @@ BEGIN:VEVENT
 SUMMARY:📅 Twilight Trails
 DTSTART;TZID=Asia/Singapore:20260908T100000
 DTEND;TZID=Asia/Singapore:20261201T100000
-DTSTAMP:20260907T231126Z
-UID:2026-09-08T10:00:00+08:00--3058350106884383330@leekduck-calendar
+DTSTAMP:20260908T230451Z
+UID:2026-09-08T10:00:00+08:00--5022630490432219216@leekduck-calendar
 DESCRIPTION:Welcome to Pokémon GO: Twilight Trails!\n\nIn Pokémon GO\, S
  easons are periods of time that feature new events\, Pokémon debuts\, and
   surprises that all follow a certain theme. As the Seasons change\, you ma
